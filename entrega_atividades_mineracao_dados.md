@@ -38,11 +38,11 @@ Entrega Final
 
 | Atividade | Etapa | Conteúdos relacionados | Data de entrega |
 |---|---|---|---:|
-| **AT1** | Definição do Projeto | Aulas 1 e 2 | **02/09/2026** |
-| **AT2** | Coleta, Limpeza e ETL | Aulas 3 a 5 | **16/09/2026** |
-| **AT3** | Análise Exploratória e Visualização | Aulas 6 a 10 | **14/10/2026** |
-| **AT4** | Mineração de Dados e Validação | Aulas 11 a 15 | **11/11/2026** |
-| **AT5** | Entrega Final do Projeto | Consolidação do projeto | **03/12/2026** |
+| **AT1** | Definição do Projeto | Aulas 1 e 2 | **03/09/2026** |
+| **AT2** | Coleta, Limpeza e ETL | Aulas 3 a 5 | **17/09/2026** |
+| **AT3** | Análise Exploratória e Visualização | Aulas 6 a 10 | **15/10/2026** |
+| **AT4** | Mineração de Dados e Validação | Aulas 11 a 15 | **12/11/2026** |
+| **AT5** | Entrega Final do Projeto | Consolidação do projeto | **04/12/2026** |
 
 ---
 
